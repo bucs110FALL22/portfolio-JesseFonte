@@ -10,8 +10,9 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Jesse 
 
-Discord username:
+Discord username:jessefonte
 
-REPL url:
+REPL url:[ https://replit.com/join/ydqjhjfpvy-jessefonte
+](https://replit.com/@JesseFonte)
