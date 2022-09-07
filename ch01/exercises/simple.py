@@ -1,4 +1,4 @@
-print (10*5) 
+pythprint (10*5) 
 print (10**2)
 print (15/10)
 print (15//10)
