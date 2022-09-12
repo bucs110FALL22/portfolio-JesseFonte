@@ -14,5 +14,4 @@ Preferred Name: Jesse
 
 Discord username:jessefonte
 
-REPL url:[ https://replit.com/join/ydqjhjfpvy-jessefonte
-](https://replit.com/@JesseFonte)
+REPL url: https://replit.com/join/fdsougnaib-jessefonte
