@@ -6,7 +6,7 @@ window = turtle.Screen()
 sides = int(input("How many sides would you like?"))
 length = int(input("How long each side?"))
 
-draw.shape("turtle")clear
+draw.shape("turtle")
 draw.color("red")
 
 for i in range(sides):
